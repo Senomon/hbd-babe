@@ -87,7 +87,7 @@ const animationTimeline = () => {
         y: 10
       },
     "+=3")
-    .from(".four", 0.7, {
+    .from(".four", 0.5, {
       scale: 0.2,
       opacity: 0,
     })
